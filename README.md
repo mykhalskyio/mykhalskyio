@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Mykhalskyio Oleg
+- 👋 Hi, I’m Oleh Mykhalskyi
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning backend
